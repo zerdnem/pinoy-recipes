@@ -1,0 +1,19 @@
+{
+  "name": "vercel-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel deploy --prod"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vercel": "^28.2.0"
+  },
+  "dependencies": {
+    "@vercel/node": "^2.5.11"
+  }
+}
