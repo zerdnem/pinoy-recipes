@@ -10,7 +10,7 @@ cd to individual folders and check package.json
 
 ## How to deploy
 ```
-cd to individual folders and check package.json
+just run vercel command to deploy
 ```
 
 ## What I learned
